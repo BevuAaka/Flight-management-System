@@ -4,7 +4,7 @@ A full-stack flight booking and management system built with React, TypeScript, 
 
 ## 📄 Project Documentation
  **Read the full project documentation here:**  
-https://github.com/BevuAaka/Flight-management-System/blob/main/DBS.pdf
+![Read Documentation](https://img.shields.io/badge/Read-Full%20Project%20Report-blue?style=for-the-badge) https://github.com/BevuAaka/Flight-management-System/blob/main/DBS.pdf
 
 ##  Live Demo
 https://f-595246.vercel.app/
