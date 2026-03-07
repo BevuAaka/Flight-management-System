@@ -10,4 +10,4 @@ This project is built with .
 
 
 
-~For full project details please go through teh DBS MINI.docx
+~For full project details please go through the DBS MINI.docx
