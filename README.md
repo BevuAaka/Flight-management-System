@@ -8,3 +8,6 @@ This project is built with .
 - shadcn-ui
 - Tailwind CSS
 
+
+
+~For full project details please go through teh DBS MINI.docx
